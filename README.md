@@ -1,5 +1,7 @@
 # steven-portfolio
 
+https://www.stevenat.com/
+
 ![](https://github.com/jsavendanot/steven-portfolio/blob/master/src/img/IntroScreenShot.PNG)
 
 ### Install
@@ -15,7 +17,7 @@ Install yarn in your Project:
 ```bash
 yarn install
 ```
- ### Run!!!
+ ### Run it up!!!
 
 ```bash
 yarn start
