@@ -37,7 +37,7 @@ class Timeline extends React.Component {
                         className="vertical-timeline-element--work"
                         date="July 2019 - November 2019"
                         iconStyle={{ background: '#0EC0D7', color: '#fff' }}
-                        icon={<CategoryIcon fontSize="large" />}>
+                        icon={<CategoryIcon />}>
                         <h3 className="vertical-timeline-element-title">Software implementer</h3>
                         <h4 className="vertical-timeline-element-subtitle">Harris Community Centre – Uniting</h4>
                         <p>Implementation of projects to encourage the community to share toys and become more environmentally aware</p>

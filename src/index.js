@@ -29,6 +29,10 @@ import BackToTop from './components/back-top.jsx';
 import Preloader from './components/preloader';
 import Timeline from './components/timeline.jsx'
 
+import ReactGA from 'react-ga';
+ReactGA.initialize('UA-179317689-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 
 ReactDOM.render(
     <React.Fragment>
