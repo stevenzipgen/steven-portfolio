@@ -21,7 +21,7 @@ class Contact extends React.Component {
                       </div>
                       <div>
                         <form
-                          action="https://formspree.io/xdoeonlo"
+                          action="https://formspree.io/f/mleoglpz"
                           method="POST"
                           className="contactForm"
                         >
@@ -49,7 +49,7 @@ class Contact extends React.Component {
                                 <input
                                   type="email"
                                   className="form-control"
-                                  name="email"
+                                  name="_replyto"
                                   id="email"
                                   placeholder="Your Email"
                                   data-rule="email"
